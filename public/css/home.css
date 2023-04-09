@@ -1,0 +1,13 @@
+body {
+    padding: 1rem 10rem 3rem 10rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid black 1px;
+}
+
+table tr td {
+    border: solid black 1px;
+    padding: 0.5rem;
+}
